@@ -1,0 +1,12 @@
+# TODO:
+# Configuration options per target: Source directory, Full-Intervall, Diff-Intervall, Upload-Option
+#
+# Create Glacier Download-Script 
+#   - with configurable max download rate in GB per Month.
+#
+# Create Clacier List-script.
+#
+# Save unencrypted journal of uploaded files with archive id in S3?
+# 
+# Option to delete local copy of backup files after upload.
+#
